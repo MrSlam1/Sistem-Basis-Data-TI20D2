@@ -13,7 +13,7 @@ Terdapat 6 Table <br>
 5. Berobat <br>
 6. Resep <br>
 # Design Database
-  <img src = "design_database.png" img>
+  <img src = "design_database.png" img> <br>
 # Screenshoot index
   <img src = "index_1.png" img>
   <img src = "index_2.png" img>
